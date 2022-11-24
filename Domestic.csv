@@ -1,0 +1,350 @@
+Abbreviation,Country,Variable,Year,Value
+AUS,Australia,Overnight visitors (tourists),2017,98483900
+AUS,Australia,Overnight visitors (tourists),2018,104821900
+AUS,Australia,Overnight visitors (tourists),2019,117447700
+AUS,Australia,Overnight visitors (tourists),2020,72513800
+AUS,Australia,Overnight visitors (tourists),2021,82074100
+AUS,Australia,Same-day visitors (excursionists),2017,193312800
+AUS,Australia,Same-day visitors (excursionists),2018,205344300
+AUS,Australia,Same-day visitors (excursionists),2019,248349200
+AUS,Australia,Same-day visitors (excursionists),2020,164191900
+AUS,Australia,Same-day visitors (excursionists),2021,160468900
+CAN,Canada,Overnight visitors (tourists),2017,117368000
+CAN,Canada,Overnight visitors (tourists),2018,95445000
+CAN,Canada,Overnight visitors (tourists),2019,93665000
+CAN,Canada,Overnight visitors (tourists),2020,68247000
+CAN,Canada,Overnight visitors (tourists),2021,69318000
+CAN,Canada,Same-day visitors (excursionists),2017,211086000
+CAN,Canada,Same-day visitors (excursionists),2018,182615000
+CAN,Canada,Same-day visitors (excursionists),2019,181753000
+CAN,Canada,Same-day visitors (excursionists),2020,129784000
+CAN,Canada,Same-day visitors (excursionists),2021,132949000
+CZE,Czech Republic,Overnight visitors (tourists),2017,32561799.57
+CZE,Czech Republic,Overnight visitors (tourists),2018,31930562.4
+CZE,Czech Republic,Overnight visitors (tourists),2019,32287425.48
+CZE,Czech Republic,Overnight visitors (tourists),2020,27613436.79
+CZE,Czech Republic,Same-day visitors (excursionists),2017,57602696.61
+CZE,Czech Republic,Same-day visitors (excursionists),2018,53900707.44
+CZE,Czech Republic,Same-day visitors (excursionists),2019,53579786.35
+CZE,Czech Republic,Same-day visitors (excursionists),2020,35208597.99
+DNK,Denmark,Overnight visitors (tourists),2017,16333110.62
+DNK,Denmark,Overnight visitors (tourists),2018,16618961.03
+DNK,Denmark,Overnight visitors (tourists),2019,17794182.66
+DNK,Denmark,Overnight visitors (tourists),2020,19341386.3
+DNK,Denmark,Overnight visitors (tourists),2021,23414246.3
+DNK,Denmark,Same-day visitors (excursionists),2017,48555067.09
+DNK,Denmark,Same-day visitors (excursionists),2018,46540841.49
+DNK,Denmark,Same-day visitors (excursionists),2019,50106946
+DNK,Denmark,Same-day visitors (excursionists),2020,44873527.81
+DNK,Denmark,Same-day visitors (excursionists),2021,42228863.21
+FIN,Finland,Overnight visitors (tourists),2017,30160000
+FIN,Finland,Overnight visitors (tourists),2018,29130000
+FIN,Finland,Overnight visitors (tourists),2019,29320000
+FIN,Finland,Overnight visitors (tourists),2020,23340000
+FIN,Finland,Overnight visitors (tourists),2021,29380000
+FIN,Finland,Same-day visitors (excursionists),2018,16160000
+FIN,Finland,Same-day visitors (excursionists),2021,31920000
+FRA,France,Overnight visitors (tourists),2017,191636263.3
+FRA,France,Overnight visitors (tourists),2018,189755192.7
+FRA,France,Overnight visitors (tourists),2019,207624151
+FRA,France,Overnight visitors (tourists),2020,152119298
+FRA,France,Overnight visitors (tourists),2021,187321001
+FRA,France,Same-day visitors (excursionists),2017,84900826.94
+FRA,France,Same-day visitors (excursionists),2018,78397005.49
+FRA,France,Same-day visitors (excursionists),2019,91690902
+FRA,France,Same-day visitors (excursionists),2020,60427842
+FRA,France,Same-day visitors (excursionists),2021,64919075
+DEU,Germany,Overnight visitors (tourists),2017,151175053
+DEU,Germany,Overnight visitors (tourists),2018,159337584
+DEU,Germany,Overnight visitors (tourists),2019,160984920
+DEU,Germany,Overnight visitors (tourists),2020,109295843
+DEU,Germany,Same-day visitors (excursionists),2018,567390772
+GRC,Greece,Overnight visitors (tourists),2017,5492230
+GRC,Greece,Overnight visitors (tourists),2018,5690627
+GRC,Greece,Overnight visitors (tourists),2019,5180097
+GRC,Greece,Overnight visitors (tourists),2020,4447734
+GRC,Greece,Overnight visitors (tourists),2021,4830693
+HUN,Hungary,Overnight visitors (tourists),2017,14373820
+HUN,Hungary,Overnight visitors (tourists),2018,14385927
+HUN,Hungary,Overnight visitors (tourists),2019,14248837
+HUN,Hungary,Overnight visitors (tourists),2020,8919064
+HUN,Hungary,Overnight visitors (tourists),2021,10182718
+IRL,Ireland,Overnight visitors (tourists),2017,9626000
+IRL,Ireland,Overnight visitors (tourists),2018,10919000
+IRL,Ireland,Overnight visitors (tourists),2019,11621000
+IRL,Ireland,Overnight visitors (tourists),2020,7721000
+IRL,Ireland,Overnight visitors (tourists),2021,5663000
+ITA,Italy,Overnight visitors (tourists),2017,53647141
+ITA,Italy,Overnight visitors (tourists),2018,62860945
+ITA,Italy,Overnight visitors (tourists),2019,54253152
+ITA,Italy,Overnight visitors (tourists),2020,34129556
+ITA,Italy,Overnight visitors (tourists),2021,37183244
+ITA,Italy,Same-day visitors (excursionists),2017,68203494
+ITA,Italy,Same-day visitors (excursionists),2018,82445995
+ITA,Italy,Same-day visitors (excursionists),2019,78604408
+ITA,Italy,Same-day visitors (excursionists),2020,40524299
+ITA,Italy,Same-day visitors (excursionists),2021,35816871
+JPN,Japan,Overnight visitors (tourists),2017,323328000
+JPN,Japan,Overnight visitors (tourists),2018,291052000
+JPN,Japan,Overnight visitors (tourists),2019,311624000
+JPN,Japan,Overnight visitors (tourists),2020,160703000
+JPN,Japan,Overnight visitors (tourists),2021,141768000
+JPN,Japan,Same-day visitors (excursionists),2017,324182000
+JPN,Japan,Same-day visitors (excursionists),2018,270727000
+JPN,Japan,Same-day visitors (excursionists),2019,275478000
+JPN,Japan,Same-day visitors (excursionists),2020,132705000
+JPN,Japan,Same-day visitors (excursionists),2021,126440000
+KOR,Korea,Overnight visitors (tourists),2017,112784481
+KOR,Korea,Overnight visitors (tourists),2018,163204000
+KOR,Korea,Overnight visitors (tourists),2019,162376000
+KOR,Korea,Overnight visitors (tourists),2020,88450000
+KOR,Korea,Same-day visitors (excursionists),2017,172181521
+KOR,Korea,Same-day visitors (excursionists),2018,147949000
+KOR,Korea,Same-day visitors (excursionists),2019,182374000
+KOR,Korea,Same-day visitors (excursionists),2020,136749000
+MEX,Mexico,Overnight visitors (tourists),2017,95600435.97
+MEX,Mexico,Overnight visitors (tourists),2018,100444598.3
+MEX,Mexico,Overnight visitors (tourists),2019,101749155
+MEX,Mexico,Overnight visitors (tourists),2020,48042199.14
+NOR,Norway,Overnight visitors (tourists),2017,15080000
+NOR,Norway,Overnight visitors (tourists),2018,18970000
+NOR,Norway,Overnight visitors (tourists),2019,14710000
+NOR,Norway,Overnight visitors (tourists),2020,16580000
+NOR,Norway,Overnight visitors (tourists),2021,20450000
+POL,Poland,Overnight visitors (tourists),2017,45952310
+POL,Poland,Overnight visitors (tourists),2018,47736330
+POL,Poland,Overnight visitors (tourists),2019,50018235
+POL,Poland,Overnight visitors (tourists),2020,38570417
+POL,Poland,Overnight visitors (tourists),2021,46277647
+POL,Poland,Same-day visitors (excursionists),2018,48236769
+POL,Poland,Same-day visitors (excursionists),2021,34393280.11
+PRT,Portugal,Overnight visitors (tourists),2017,18993300
+PRT,Portugal,Overnight visitors (tourists),2018,19593311
+PRT,Portugal,Overnight visitors (tourists),2019,21362618
+PRT,Portugal,Overnight visitors (tourists),2020,13729792
+PRT,Portugal,Overnight visitors (tourists),2021,16506230
+SVK,Slovak Republic,Overnight visitors (tourists),2017,8283525
+SVK,Slovak Republic,Overnight visitors (tourists),2018,9397200
+SVK,Slovak Republic,Overnight visitors (tourists),2019,10348282
+SVK,Slovak Republic,Same-day visitors (excursionists),2017,25258455
+SVK,Slovak Republic,Same-day visitors (excursionists),2018,27863041
+SVK,Slovak Republic,Same-day visitors (excursionists),2019,35086897
+ESP,Spain,Overnight visitors (tourists),2017,138356812
+ESP,Spain,Overnight visitors (tourists),2018,139931200
+ESP,Spain,Overnight visitors (tourists),2019,137191009
+ESP,Spain,Overnight visitors (tourists),2020,74749663
+ESP,Spain,Overnight visitors (tourists),2021,107727044
+ESP,Spain,Same-day visitors (excursionists),2017,280332355
+ESP,Spain,Same-day visitors (excursionists),2018,285520942
+ESP,Spain,Same-day visitors (excursionists),2019,257619303
+ESP,Spain,Same-day visitors (excursionists),2020,160339793
+ESP,Spain,Same-day visitors (excursionists),2021,212971414.8
+SWE,Sweden,Overnight visitors (tourists),2017,37316000
+SWE,Sweden,Overnight visitors (tourists),2018,35686000
+SWE,Sweden,Overnight visitors (tourists),2019,36891000
+SWE,Sweden,Overnight visitors (tourists),2020,49831000
+SWE,Sweden,Overnight visitors (tourists),2021,51185000
+SWE,Sweden,Same-day visitors (excursionists),2017,16900000
+SWE,Sweden,Same-day visitors (excursionists),2018,20194000
+SWE,Sweden,Same-day visitors (excursionists),2019,19280000
+SWE,Sweden,Same-day visitors (excursionists),2020,78961000
+SWE,Sweden,Same-day visitors (excursionists),2021,71484000
+CHE,Switzerland,Overnight visitors (tourists),2017,8231093.02
+CHE,Switzerland,Overnight visitors (tourists),2018,8201038.83
+CHE,Switzerland,Overnight visitors (tourists),2019,7765446.57
+CHE,Switzerland,Overnight visitors (tourists),2020,8319215.71
+CHE,Switzerland,Same-day visitors (excursionists),2017,68078358.82
+CHE,Switzerland,Same-day visitors (excursionists),2018,71819301.79
+CHE,Switzerland,Same-day visitors (excursionists),2019,70551392.49
+CHE,Switzerland,Same-day visitors (excursionists),2020,54631600.31
+TUR,T¨¹rkiye,Overnight visitors (tourists),2017,77179000
+TUR,T¨¹rkiye,Overnight visitors (tourists),2018,78523000
+TUR,T¨¹rkiye,Overnight visitors (tourists),2019,78202000
+TUR,T¨¹rkiye,Overnight visitors (tourists),2020,42847000
+TUR,T¨¹rkiye,Overnight visitors (tourists),2021,52774000
+TUR,T¨¹rkiye,Same-day visitors (excursionists),2017,43693000
+TUR,T¨¹rkiye,Same-day visitors (excursionists),2018,47923000
+TUR,T¨¹rkiye,Same-day visitors (excursionists),2019,46437000
+TUR,T¨¹rkiye,Same-day visitors (excursionists),2020,24295000
+TUR,T¨¹rkiye,Same-day visitors (excursionists),2021,23109000
+GBR,United Kingdom,Overnight visitors (tourists),2017,120680000
+GBR,United Kingdom,Overnight visitors (tourists),2018,118600000
+GBR,United Kingdom,Overnight visitors (tourists),2019,122780000
+GBR,United Kingdom,Same-day visitors (excursionists),2017,1793400000
+GBR,United Kingdom,Same-day visitors (excursionists),2018,1703000000
+GBR,United Kingdom,Same-day visitors (excursionists),2019,1653000000
+USA,United States,Overnight visitors (tourists),2017,1591915864
+USA,United States,Overnight visitors (tourists),2018,1613986928
+USA,United States,Overnight visitors (tourists),2019,1646613553
+USA,United States,Overnight visitors (tourists),2020,1122368168
+USA,United States,Overnight visitors (tourists),2021,1449133584
+USA,United States,Same-day visitors (excursionists),2017,649084136.4
+USA,United States,Same-day visitors (excursionists),2018,664013071.5
+USA,United States,Same-day visitors (excursionists),2019,671386447.2
+USA,United States,Same-day visitors (excursionists),2020,457631832
+USA,United States,Same-day visitors (excursionists),2021,590866416
+CHL,Chile,Overnight visitors (tourists),2017,46016375.86
+CHL,Chile,Overnight visitors (tourists),2018,52973666.01
+CHL,Chile,Overnight visitors (tourists),2019,53748581.13
+CHL,Chile,Overnight visitors (tourists),2020,39322783.87
+CHL,Chile,Overnight visitors (tourists),2021,49062196.18
+CHL,Chile,Same-day visitors (excursionists),2017,17756410.41
+CHL,Chile,Same-day visitors (excursionists),2018,20370042.22
+CHL,Chile,Same-day visitors (excursionists),2019,20710737.32
+CHL,Chile,Same-day visitors (excursionists),2020,15102452.35
+CHL,Chile,Same-day visitors (excursionists),2021,19315126.64
+HRV,Croatia,Overnight visitors (tourists),2017,3638000
+HRV,Croatia,Overnight visitors (tourists),2018,3197000
+HRV,Croatia,Overnight visitors (tourists),2019,3708000
+HRV,Croatia,Overnight visitors (tourists),2020,2510250
+HRV,Croatia,Overnight visitors (tourists),2021,3278070
+HRV,Croatia,Same-day visitors (excursionists),2017,2976000
+HRV,Croatia,Same-day visitors (excursionists),2018,4969000
+HRV,Croatia,Same-day visitors (excursionists),2019,6737000
+HRV,Croatia,Same-day visitors (excursionists),2020,3672659
+HRV,Croatia,Same-day visitors (excursionists),2021,3696140
+EST,Estonia,Overnight visitors (tourists),2017,3276700
+EST,Estonia,Overnight visitors (tourists),2018,4399100
+EST,Estonia,Overnight visitors (tourists),2019,3486300
+EST,Estonia,Overnight visitors (tourists),2020,2135600
+EST,Estonia,Overnight visitors (tourists),2021,2266500
+EST,Estonia,Same-day visitors (excursionists),2018,8216800
+EST,Estonia,Same-day visitors (excursionists),2021,5199864
+IND,India,Overnight visitors (tourists),2017,1657546152
+IND,India,Overnight visitors (tourists),2018,1853787719
+IND,India,Overnight visitors (tourists),2019,2321982663
+IND,India,Overnight visitors (tourists),2020,610216157
+IDN,Indonesia,Overnight visitors (tourists),2017,270822003
+IDN,Indonesia,Overnight visitors (tourists),2018,303403888
+IDN,Indonesia,Overnight visitors (tourists),2019,354353320
+IDN,Indonesia,Overnight visitors (tourists),2020,364698270
+IDN,Indonesia,Overnight visitors (tourists),2021,399524096
+LVA,Latvia,Overnight visitors (tourists),2017,2942355
+LVA,Latvia,Overnight visitors (tourists),2018,2583637
+LVA,Latvia,Overnight visitors (tourists),2019,2500924
+LVA,Latvia,Overnight visitors (tourists),2020,1366949
+LVA,Latvia,Overnight visitors (tourists),2021,2392349
+LVA,Latvia,Same-day visitors (excursionists),2017,9589961
+LVA,Latvia,Same-day visitors (excursionists),2018,8364522
+LVA,Latvia,Same-day visitors (excursionists),2019,7915014
+LVA,Latvia,Same-day visitors (excursionists),2020,4786314
+LVA,Latvia,Same-day visitors (excursionists),2021,5889505
+LTU,Lithuania,Overnight visitors (tourists),2017,2528015
+LTU,Lithuania,Overnight visitors (tourists),2018,2640800
+LTU,Lithuania,Overnight visitors (tourists),2019,2826900
+LTU,Lithuania,Overnight visitors (tourists),2020,2437700
+LTU,Lithuania,Overnight visitors (tourists),2021,3089700
+LTU,Lithuania,Same-day visitors (excursionists),2017,11718998
+LTU,Lithuania,Same-day visitors (excursionists),2018,12036800
+LTU,Lithuania,Same-day visitors (excursionists),2019,11958000
+LTU,Lithuania,Same-day visitors (excursionists),2020,8951400
+LTU,Lithuania,Same-day visitors (excursionists),2021,8502900
+MLT,Malta,Overnight visitors (tourists),2017,260762.766
+MLT,Malta,Overnight visitors (tourists),2018,245476.698
+MLT,Malta,Overnight visitors (tourists),2019,237237.482
+MLT,Malta,Overnight visitors (tourists),2020,360460.094
+MAR,Morocco,Overnight visitors (tourists),2017,3120775
+MAR,Morocco,Overnight visitors (tourists),2018,3247378
+MAR,Morocco,Overnight visitors (tourists),2019,3549573
+MAR,Morocco,Overnight visitors (tourists),2020,1442096
+MAR,Morocco,Overnight visitors (tourists),2021,2764895
+ROU,Romania,Overnight visitors (tourists),2017,16444213
+ROU,Romania,Overnight visitors (tourists),2018,16461348
+ROU,Romania,Overnight visitors (tourists),2019,16863013
+ROU,Romania,Overnight visitors (tourists),2020,11591298
+ROU,Romania,Overnight visitors (tourists),2021,16875520
+ROU,Romania,Same-day visitors (excursionists),2017,34808597
+ROU,Romania,Same-day visitors (excursionists),2018,35623795
+ROU,Romania,Same-day visitors (excursionists),2019,36062054
+ROU,Romania,Same-day visitors (excursionists),2020,26543821
+ROU,Romania,Same-day visitors (excursionists),2021,34604920
+SVN,Slovenia,Overnight visitors (tourists),2017,1813000
+SVN,Slovenia,Overnight visitors (tourists),2018,2003000
+SVN,Slovenia,Overnight visitors (tourists),2019,1742000
+SVN,Slovenia,Overnight visitors (tourists),2020,1263000
+SVN,Slovenia,Overnight visitors (tourists),2021,3247000
+SVN,Slovenia,Same-day visitors (excursionists),2018,8914000
+SVN,Slovenia,Same-day visitors (excursionists),2021,10790000
+ZAF,South Africa,Overnight visitors (tourists),2017,17200000
+ZAF,South Africa,Overnight visitors (tourists),2018,17650000
+ZAF,South Africa,Overnight visitors (tourists),2019,28456033
+ZAF,South Africa,Overnight visitors (tourists),2020,17037576.93
+ZAF,South Africa,Overnight visitors (tourists),2021,14836807.35
+ZAF,South Africa,Same-day visitors (excursionists),2017,135000000
+ZAF,South Africa,Same-day visitors (excursionists),2018,116000000
+ZAF,South Africa,Same-day visitors (excursionists),2019,236524152
+ZAF,South Africa,Same-day visitors (excursionists),2020,108039084.1
+ZAF,South Africa,Same-day visitors (excursionists),2021,68760211.09
+GRC,Greece,Same-day visitors (excursionists),2017,19158156
+GRC,Greece,Same-day visitors (excursionists),2018,20609947
+GRC,Greece,Same-day visitors (excursionists),2019,22698987
+GRC,Greece,Same-day visitors (excursionists),2020,19058891
+GRC,Greece,Same-day visitors (excursionists),2021,17068721
+HUN,Hungary,Same-day visitors (excursionists),2017,32441946
+HUN,Hungary,Same-day visitors (excursionists),2018,33924191
+HUN,Hungary,Same-day visitors (excursionists),2019,33674102
+HUN,Hungary,Same-day visitors (excursionists),2020,21013160
+HUN,Hungary,Same-day visitors (excursionists),2021,28627640
+PER,Peru,Overnight visitors (tourists),2017,44382223
+PER,Peru,Overnight visitors (tourists),2018,46517399
+PER,Peru,Overnight visitors (tourists),2019,48575226
+PER,Peru,Overnight visitors (tourists),2020,14369718
+PER,Peru,Overnight visitors (tourists),2021,15562405
+PER,Peru,Same-day visitors (excursionists),2017,76684304
+PER,Peru,Same-day visitors (excursionists),2018,82321716
+PER,Peru,Same-day visitors (excursionists),2019,86419565
+PER,Peru,Same-day visitors (excursionists),2020,32699836
+PER,Peru,Same-day visitors (excursionists),2021,48946546
+BEL,Belgium,Overnight visitors (tourists),2017,3997303.746
+BEL,Belgium,Overnight visitors (tourists),2018,4872278.529
+BEL,Belgium,Overnight visitors (tourists),2019,5361563.652
+BEL,Belgium,Overnight visitors (tourists),2020,4283886.375
+BEL,Belgium,Overnight visitors (tourists),2021,6911466.469
+NLD,Netherlands,Overnight visitors (tourists),2017,19168000
+NLD,Netherlands,Overnight visitors (tourists),2018,18341000
+NLD,Netherlands,Overnight visitors (tourists),2019,17989000
+NLD,Netherlands,Overnight visitors (tourists),2020,16958000
+NLD,Netherlands,Overnight visitors (tourists),2021,21664000
+NLD,Netherlands,Same-day visitors (excursionists),2018,864762000
+NLD,Netherlands,Same-day visitors (excursionists),2021,49199000
+BEL-BRU,Region of Brussels-Capital,Overnight visitors (tourists),2017,319365.832
+BEL-BRU,Region of Brussels-Capital,Overnight visitors (tourists),2018,393876.311
+BEL-BRU,Region of Brussels-Capital,Overnight visitors (tourists),2019,416030.533
+BEL-BRU,Region of Brussels-Capital,Overnight visitors (tourists),2020,457216.628
+BEL-VLG,Flanders,Overnight visitors (tourists),2017,2800035.839
+BEL-VLG,Flanders,Overnight visitors (tourists),2018,3350554.869
+BEL-VLG,Flanders,Overnight visitors (tourists),2019,3654104.371
+BEL-VLG,Flanders,Overnight visitors (tourists),2020,2675188.908
+BEL-WAL,Wallonia,Overnight visitors (tourists),2017,877902.074
+BEL-WAL,Wallonia,Overnight visitors (tourists),2018,1127847.35
+BEL-WAL,Wallonia,Overnight visitors (tourists),2019,1291428.748
+BEL-WAL,Wallonia,Overnight visitors (tourists),2020,1151480.839
+IDN,Indonesia,Same-day visitors (excursionists),2019,367805413
+IDN,Indonesia,Same-day visitors (excursionists),2020,159873122
+IDN,Indonesia,Same-day visitors (excursionists),2021,203495904
+BEL,Belgium,Same-day visitors (excursionists),2018,18480268.24
+BEL,Belgium,Same-day visitors (excursionists),2021,19012532.86
+BRA,Brazil,Overnight visitors (tourists),2020,9637000
+BRA,Brazil,Overnight visitors (tourists),2021,9256000
+BRA,Brazil,Same-day visitors (excursionists),2020,3665000
+BRA,Brazil,Same-day visitors (excursionists),2021,2991000
+COL,Colombia,Overnight visitors (tourists),2017,43845565.74
+COL,Colombia,Overnight visitors (tourists),2018,45280104.76
+COL,Colombia,Overnight visitors (tourists),2019,46278899.97
+COL,Colombia,Overnight visitors (tourists),2020,19419263.18
+COL,Colombia,Overnight visitors (tourists),2021,25659584.08
+COL,Colombia,Same-day visitors (excursionists),2017,34488198.67
+COL,Colombia,Same-day visitors (excursionists),2018,35803818.77
+COL,Colombia,Same-day visitors (excursionists),2019,37576755.04
+COL,Colombia,Same-day visitors (excursionists),2020,13016866.62
+COL,Colombia,Same-day visitors (excursionists),2021,17314234.03
+SAU,Saudi Arabia,Overnight visitors (tourists),2017,43820576
+SAU,Saudi Arabia,Overnight visitors (tourists),2018,43255482
+SAU,Saudi Arabia,Overnight visitors (tourists),2019,47805187
+SAU,Saudi Arabia,Overnight visitors (tourists),2020,42106791
+SAU,Saudi Arabia,Overnight visitors (tourists),2021,63845292
+SAU,Saudi Arabia,Same-day visitors (excursionists),2017,3089374
+SAU,Saudi Arabia,Same-day visitors (excursionists),2018,3256481
+SAU,Saudi Arabia,Same-day visitors (excursionists),2019,5268956
+SAU,Saudi Arabia,Same-day visitors (excursionists),2020,6292303
+SAU,Saudi Arabia,Same-day visitors (excursionists),2021,9084822
